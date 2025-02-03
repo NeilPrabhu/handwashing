@@ -1,9 +1,8 @@
 <style>
     img {
-        max-width: 100%;
+        width: 100%;
     }
 </style>
-<p> how to component</p>
 <div bp="grid">
     <img
     bp="offset-5@md 
